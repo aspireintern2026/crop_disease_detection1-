@@ -1,0 +1,5 @@
+{
+  "name": "AgriGuard AI - Crop Disease Detection",
+  "description": "A professional agri-tech platform for early crop disease detection using advanced AI vision and actionable treatment recommendations.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
